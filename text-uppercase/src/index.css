@@ -1,0 +1,46 @@
+body{
+  font-family:sans-serif;
+  font-size:15px;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column;
+  background-color:#DDDDDD;
+}
+
+
+textArea{
+  height:150px;
+  width:400px;
+  border:2px solid #B7B78A;
+  margin:0;
+  padding:0;
+  font-size:18px;
+}
+
+tectArea:hover{
+  border:2px solid #B7B78A;
+}
+
+button{
+  height:36px;
+  width:150px;
+  background-color:#B7B78A;
+  border-radius:10px;
+  border:0;
+  color:black;
+  font:20px arial;
+  margin : 10px;
+}
+
+
+.txt{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column;
+}
+
+p{
+  font-size:18px;
+}
