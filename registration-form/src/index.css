@@ -59,3 +59,9 @@ button{
   align-items: flex-start;
   flex-direction: column;
 }
+
+.img{
+  display: flex;
+  align-self:flex-end;
+  padding-bottom:80px; 
+}
